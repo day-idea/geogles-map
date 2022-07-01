@@ -1,6 +1,3 @@
-# geogles-map
-Google Maps based on react
-
 # Google Maps Example
 
 ## 环境准备
